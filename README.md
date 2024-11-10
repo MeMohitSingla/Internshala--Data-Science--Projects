@@ -1,4 +1,4 @@
-# Internshala--Data-Science--Projects
+# Internshala--Data Science--Projects
 Projects- Data Analyst - Portfolio
 This repository is for the projects I've done on the Internshala Placement Guarantee Course
 
